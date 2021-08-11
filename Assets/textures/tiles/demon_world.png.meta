@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 6f5f70cb00eb35945a30c5ae1da83b22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -655683482120840674
+    second: demon_world_0
+  - first:
+      213: 7476642730070102157
+    second: demon_world_1
+  - first:
+      213: -4614090471352708290
+    second: demon_world_2
+  - first:
+      213: -6310278626569254850
+    second: demon_world_3
+  - first:
+      213: 300048369754106989
+    second: demon_world_4
+  - first:
+      213: -2691716767294838404
+    second: demon_world_5
+  - first:
+      213: -8491544166246540280
+    second: demon_world_6
+  - first:
+      213: 8541778261152511959
+    second: demon_world_7
+  - first:
+      213: 2893054881373244833
+    second: demon_world_8
+  - first:
+      213: -6257017941209758116
+    second: demon_world_9
+  - first:
+      213: -325875298995552191
+    second: demon_world_10
+  - first:
+      213: 401977515089464616
+    second: demon_world_11
+  - first:
+      213: 7070997704689205165
+    second: demon_world_12
+  - first:
+      213: -3072207629413061885
+    second: demon_world_13
+  - first:
+      213: 1195350005394444605
+    second: demon_world_14
+  - first:
+      213: -8783537433097139541
+    second: demon_world_15
+  - first:
+      213: 1933386160973633493
+    second: demon_world_16
+  - first:
+      213: -3833668132686010162
+    second: demon_world_17
+  - first:
+      213: 3961054450265416443
+    second: demon_world_18
+  - first:
+      213: 5773970580855187284
+    second: demon_world_19
+  - first:
+      213: 746667082891125269
+    second: demon_world_20
+  - first:
+      213: -7298294225109520140
+    second: demon_world_21
+  - first:
+      213: 9119379422359125288
+    second: demon_world_22
+  - first:
+      213: -3451951900841321512
+    second: demon_world_23
+  - first:
+      213: 4989756878691090574
+    second: demon_world_24
+  - first:
+      213: -1413698143669533377
+    second: demon_world_25
+  - first:
+      213: 4399705651329603391
+    second: demon_world_26
+  - first:
+      213: 5270212877359899293
+    second: demon_world_27
+  - first:
+      213: 914386998921603613
+    second: demon_world_28
+  - first:
+      213: -1688353710670670717
+    second: demon_world_29
+  - first:
+      213: -6538187164996791862
+    second: demon_world_30
+  - first:
+      213: -5235885001904395497
+    second: demon_world_31
+  - first:
+      213: 8426966772219193892
+    second: demon_world_32
+  - first:
+      213: -4343212936098570016
+    second: demon_world_33
+  - first:
+      213: 1872106059213434032
+    second: demon_world_34
+  - first:
+      213: -842101206955692367
+    second: demon_world_35
+  - first:
+      213: 5030065475475473683
+    second: demon_world_36
+  - first:
+      213: -8489328569278431894
+    second: demon_world_37
+  - first:
+      213: 7880382810291450334
+    second: demon_world_38
+  - first:
+      213: -4440095583158083315
+    second: demon_world_39
+  - first:
+      213: -5769783671755962276
+    second: demon_world_40
+  - first:
+      213: -2619539665095588886
+    second: demon_world_41
+  - first:
+      213: -7741071583869029274
+    second: demon_world_42
+  - first:
+      213: -3641336240170103708
+    second: demon_world_43
+  - first:
+      213: 1261118470723874656
+    second: demon_world_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demon_world_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a9813d85b86e6f0800000000000000
+      internalID: -655683482120840674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80d55633fe52c760800000000000000
+      internalID: 7476642730070102157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33d18da92577ffb0800000000000000
+      internalID: -4614090471352708290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38899db5036d68a0800000000000000
+      internalID: -6310278626569254850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 175
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ce0ae076cf92400800000000000000
+      internalID: 300048369754106989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 175
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79ad698cd915aad0800000000000000
+      internalID: -2691716767294838404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 175
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c95582299f72a80800000000000000
+      internalID: -8491544166246540280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7362e721e7a8670800000000000000
+      internalID: 8541778261152511959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad46f72612362820800000000000000
+      internalID: 2893054881373244833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5642f4655b9a29a0800000000000000
+      internalID: -6257017941209758116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140cb4264224a7bf0800000000000000
+      internalID: -325875298995552191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d0a929b6c149500800000000000000
+      internalID: 401977515089464616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 225
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf3a9bd2fa312260800000000000000
+      internalID: 7070997704689205165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30be69430735d55d0800000000000000
+      internalID: -3072207629413061885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_14
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 150
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d311cc52f7cb69010800000000000000
+      internalID: 1195350005394444605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa06e4ed3b9a1680800000000000000
+      internalID: -8783537433097139541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d75d7a4874c4da10800000000000000
+      internalID: 1933386160973633493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 175
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8e38c15231ccac0800000000000000
+      internalID: -3833668132686010162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 200
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2ec04390e78f630800000000000000
+      internalID: 3961054450265416443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ed67c6a3412050800000000000000
+      internalID: 5773970580855187284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 150
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512e33181c1bc5a00800000000000000
+      internalID: 746667082891125269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0ff0ef11047ba90800000000000000
+      internalID: -7298294225109520140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 125
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82df8b1a44b8e8e70800000000000000
+      internalID: 9119379422359125288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db5e9019043810d0800000000000000
+      internalID: -3451951900841321512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 125
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c1fdb17d2f3540800000000000000
+      internalID: 4989756878691090574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c2f64709816ce0800000000000000
+      internalID: -1413698143669533377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 100
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3797cfaaf4ee0d30800000000000000
+      internalID: 4399705651329603391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e9bd60be832940800000000000000
+      internalID: 5270212877359899293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a25f1812e80bc00800000000000000
+      internalID: 914386998921603613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3841344de33c198e0800000000000000
+      internalID: -1688353710670670717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1195b0a61b345a0800000000000000
+      internalID: -6538187164996791862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b61b8e4566657b0800000000000000
+      internalID: -5235885001904395497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a2520a1a992f470800000000000000
+      internalID: 8426966772219193892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 100
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0a6ff88dec9b3c0800000000000000
+      internalID: -4343212936098570016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_34
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 59
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bce541ca8e0bf910800000000000000
+      internalID: 1872106059213434032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_35
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 61
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be6a76f9614054f0800000000000000
+      internalID: -842101206955692367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 175
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3150ca646e16ec540800000000000000
+      internalID: 5030065475475473683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 175
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d759605a8df2a80800000000000000
+      internalID: -8489328569278431894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed13485f96ebc5d60800000000000000
+      internalID: 7880382810291450334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 165
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01e41d779c9162c0800000000000000
+      internalID: -4440095583158083315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 190
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c580326f15c9defa0800000000000000
+      internalID: -5769783671755962276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae38ee2bd8685abd0800000000000000
+      internalID: -2619539665095588886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664bd9e8860329490800000000000000
+      internalID: -7741071583869029274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c87e07bff577dc0800000000000000
+      internalID: -3641336240170103708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demon_world_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f2e234194608110800000000000000
+      internalID: 1261118470723874656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

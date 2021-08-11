@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 9bc44b44c6d0cbe42b33b097c69e5fce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8214074591645499880
+    second: fortress_office_0
+  - first:
+      213: -4414657156825828970
+    second: fortress_office_1
+  - first:
+      213: 5462236277580922822
+    second: fortress_office_2
+  - first:
+      213: 7595187702535680485
+    second: fortress_office_3
+  - first:
+      213: 1969538722071665910
+    second: fortress_office_4
+  - first:
+      213: -3491419150670418989
+    second: fortress_office_5
+  - first:
+      213: 9135967295968705511
+    second: fortress_office_6
+  - first:
+      213: 8939691720520504024
+    second: fortress_office_7
+  - first:
+      213: 6632264852114840864
+    second: fortress_office_8
+  - first:
+      213: 5588713248607685851
+    second: fortress_office_9
+  - first:
+      213: 9021387630774146674
+    second: fortress_office_10
+  - first:
+      213: -1686156773791409728
+    second: fortress_office_11
+  - first:
+      213: 2646986517539856074
+    second: fortress_office_12
+  - first:
+      213: 498578019914363830
+    second: fortress_office_13
+  - first:
+      213: -2140925831459169815
+    second: fortress_office_14
+  - first:
+      213: -7527746863873487379
+    second: fortress_office_15
+  - first:
+      213: 3812548281989550890
+    second: fortress_office_16
+  - first:
+      213: 1845447470063760414
+    second: fortress_office_17
+  - first:
+      213: -5887685526913289623
+    second: fortress_office_18
+  - first:
+      213: 1167663077567975110
+    second: fortress_office_19
+  - first:
+      213: 8062087317912037957
+    second: fortress_office_20
+  - first:
+      213: 264005876909555202
+    second: fortress_office_21
+  - first:
+      213: 1647329433388330706
+    second: fortress_office_22
+  - first:
+      213: 5441066101631822903
+    second: fortress_office_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fortress_office_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 149
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e786ecdaeb10e80800000000000000
+      internalID: -8214074591645499880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 151
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691b24aa4bcfbb2c0800000000000000
+      internalID: -4414657156825828970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 108
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf767c44f2cdcb40800000000000000
+      internalID: 5462236277580922822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1fd0479f6876960800000000000000
+      internalID: 7595187702535680485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 178
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc557c5805355b10800000000000000
+      internalID: 1969538722071665910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db2b42e7ccfb8fc0800000000000000
+      internalID: -3491419150670418989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 85
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebfccbe9d979ce70800000000000000
+      internalID: 9135967295968705511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 86
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2102b514a201c70800000000000000
+      internalID: 8939691720520504024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 55
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d1d966eb98a0c50800000000000000
+      internalID: 6632264852114840864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 55
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcc7ced6191f8d40800000000000000
+      internalID: 5588713248607685851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 55
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2765569b048623d70800000000000000
+      internalID: 9021387630774146674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 29
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c95b8e09519998e0800000000000000
+      internalID: -1686156773791409728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 29
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace163f963cfbb420800000000000000
+      internalID: 2646986517539856074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 29
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b330d9411e4be600800000000000000
+      internalID: 498578019914363830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e91b65ac47e942e0800000000000000
+      internalID: -2140925831459169815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded82cb6c12188790800000000000000
+      internalID: -7527746863873487379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2353057674e8e430800000000000000
+      internalID: 3812548281989550890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e143bc842b85c9910800000000000000
+      internalID: 1845447470063760414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ff13253dba4ea0800000000000000
+      internalID: -5887685526913289623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 50
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce47cbe16f543010800000000000000
+      internalID: 1167663077567975110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a245c63b942ef60800000000000000
+      internalID: 8062087317912037957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 126
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3fcf32ffe9a300800000000000000
+      internalID: 264005876909555202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 85
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de2829446d7cd610800000000000000
+      internalID: 1647329433388330706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fortress_office_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 83
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c2f2b9acc828b40800000000000000
+      internalID: 5441066101631822903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

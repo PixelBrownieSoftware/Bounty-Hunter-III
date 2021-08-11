@@ -1,0 +1,742 @@
+fileFormatVersion: 2
+guid: 950b03ddd06d2aa4c952ccb2f0e5ee2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6453768184565535170
+    second: mountain_tiles_0
+  - first:
+      213: -1226596708182325552
+    second: mountain_tiles_1
+  - first:
+      213: 369789480198496347
+    second: mountain_tiles_2
+  - first:
+      213: -2814699540665350247
+    second: mountain_tiles_3
+  - first:
+      213: -4383160549397666014
+    second: mountain_tiles_4
+  - first:
+      213: -8325485610060237644
+    second: mountain_tiles_5
+  - first:
+      213: 396752593273017531
+    second: mountain_tiles_6
+  - first:
+      213: 7490425204499778303
+    second: mountain_tiles_7
+  - first:
+      213: 3662998780867696484
+    second: mountain_tiles_8
+  - first:
+      213: -3836150218414259884
+    second: mountain_tiles_9
+  - first:
+      213: -2920403244248094153
+    second: mountain_tiles_10
+  - first:
+      213: -7395721730388238081
+    second: mountain_tiles_11
+  - first:
+      213: -391714121861490433
+    second: mountain_tiles_12
+  - first:
+      213: -5292362313896853722
+    second: mountain_tiles_13
+  - first:
+      213: 1571019311237402428
+    second: mountain_tiles_14
+  - first:
+      213: -7178129369918969499
+    second: mountain_tiles_15
+  - first:
+      213: -761606421938248811
+    second: mountain_tiles_16
+  - first:
+      213: 7807374025592088464
+    second: mountain_tiles_17
+  - first:
+      213: 5793122879533279271
+    second: mountain_tiles_18
+  - first:
+      213: -4498957335501109082
+    second: mountain_tiles_19
+  - first:
+      213: -5787064343013048072
+    second: mountain_tiles_20
+  - first:
+      213: 4452143563880472461
+    second: mountain_tiles_21
+  - first:
+      213: -4242496482735318220
+    second: mountain_tiles_22
+  - first:
+      213: 6024544294861458507
+    second: mountain_tiles_23
+  - first:
+      213: -6833929252370921503
+    second: mountain_tiles_24
+  - first:
+      213: 865382355324929541
+    second: mountain_tiles_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mountain_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11fb768f3609950800000000000000
+      internalID: 6453768184565535170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6012eeac04afee0800000000000000
+      internalID: -1226596708182325552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 168
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5068e0b291c12500800000000000000
+      internalID: 369789480198496347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 143
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997cf214ead20f8d0800000000000000
+      internalID: -2814699540665350247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 143
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22765ab04b2eb23c0800000000000000
+      internalID: -4383160549397666014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 168
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4bbbda2fee57c80800000000000000
+      internalID: -8325485610060237644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 168
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4d0c9a16c818500800000000000000
+      internalID: 396752593273017531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa87da990653f760800000000000000
+      internalID: 7490425204499778303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 118
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467de4adbf595d230800000000000000
+      internalID: 3662998780867696484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 118
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451816e73b143cac0800000000000000
+      internalID: -3836150218414259884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 118
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aa1b9e8b4a877d0800000000000000
+      internalID: -2920403244248094153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0629a354e1d5990800000000000000
+      internalID: -7395721730388238081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff811f0e41a509af0800000000000000
+      internalID: -391714121861490433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 93
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f73810480cd86b0800000000000000
+      internalID: -5292362313896853722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 93
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f859d6db16dc510800000000000000
+      internalID: 1571019311237402428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5696e229e59226c90800000000000000
+      internalID: -7178129369918969499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593e6b19efa3e65f0800000000000000
+      internalID: -761606421938248811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 68
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0972700af4d595c60800000000000000
+      internalID: 7807374025592088464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 68
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e4cec09e456050800000000000000
+      internalID: 5793122879533279271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 143
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a881ddc32e7091c0800000000000000
+      internalID: -4498957335501109082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 68
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0c06624a730bfa0800000000000000
+      internalID: -5787064343013048072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 118
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f132e9bf039cd30800000000000000
+      internalID: 4452143563880472461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 143
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b97b93def9f15c0800000000000000
+      internalID: -4242496482735318220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 93
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cc2d4ed1b7b9350800000000000000
+      internalID: 6024544294861458507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 168
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c74c7d810921a0800000000000000
+      internalID: -6833929252370921503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mountain_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 118
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506880ccaa4720c00800000000000000
+      internalID: 865382355324929541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

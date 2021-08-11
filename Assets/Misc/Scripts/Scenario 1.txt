@@ -1,0 +1,26 @@
+[When Peast sees Beth in the mountains. Flag used bethTalk1 (0)]
+Beth: Oh hey! Uh - didn't see you there!
+Peast: You ok?
+Beth: S-sure sure! I just decided to take a walk and read this book here.
+Peast: You know there are dangerous snakes out here right?
+Beth: Um... um... well
+Peast: I'll just leave you to that - I've got more important things to focus on.
+[When interacted with again]
+Beth is intensely focused on her book, whilst occasionally looking up. She might be up to something.
+
+
+[When Peast sees beth again on the mountains. Flag used bethTalk1 (1)]
+Peast: Didn't I just see you back there reading a book?
+Beth: Didn't you say you had more important things to do?
+Peast: Oh... yeah.
+Beth: Then leave me alone, can't you mind your own buisness?
+
+[When Peast sees beth again in the mountain cave. Flag used bethTalk1 (2)]
+
+Peast: Tsk, how ironic?
+Beth: Hm?
+Peast: Oh, nothing!
+
+
+
+

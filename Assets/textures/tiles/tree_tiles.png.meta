@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: 4c69ee9bb1c638c488b60149fbb915b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8666750210265534919
+    second: tree_tiles_topleafl
+  - first:
+      213: -5016614341267868424
+    second: tree_tiles_topleaf
+  - first:
+      213: -7364635738882643247
+    second: tree_tiles_topleafr
+  - first:
+      213: -8978170575038894344
+    second: tree_tiles_3
+  - first:
+      213: -5568138283551865626
+    second: tree_tiles_4
+  - first:
+      213: -2904141381587798876
+    second: tree_tiles_5
+  - first:
+      213: 3574026462898958524
+    second: tree_tiles_6
+  - first:
+      213: 7052730316339811465
+    second: tree_tiles_7
+  - first:
+      213: 1995254879419932566
+    second: tree_tiles_8
+  - first:
+      213: 5593839180662971488
+    second: tree_tiles_leafl
+  - first:
+      213: -8869104738739083299
+    second: tree_tiles_leaf
+  - first:
+      213: -6514587891068747480
+    second: tree_tiles_leafr
+  - first:
+      213: 8916993137234398769
+    second: tree_tiles_rootl
+  - first:
+      213: 2768843146350413454
+    second: tree_tiles_root
+  - first:
+      213: 2199825273923298967
+    second: tree_tiles_rootr
+  - first:
+      213: 3978864682125918998
+    second: tree_tiles_15
+  - first:
+      213: -8852029613152355522
+    second: tree_tiles_16
+  - first:
+      213: -822957550441163943
+    second: tree_tiles_17
+  - first:
+      213: -3971639937118252840
+    second: tree_tiles_bottomleafl
+  - first:
+      213: -2162168879563140907
+    second: tree_tiles_bottomleaf
+  - first:
+      213: -1519470731093032761
+    second: tree_tiles_bottomleafr
+  - first:
+      213: -4366215372801354043
+    second: tree_tiles_trunk
+  - first:
+      213: 9092248660938110128
+    second: tree_tiles_35
+  - first:
+      213: 872284609015092810
+    second: tree_tiles_rootl
+  - first:
+      213: -5972228670557952109
+    second: tree_tiles_root
+  - first:
+      213: -4773394641070149110
+    second: tree_tiles_rootr
+  - first:
+      213: -8666750210265534919
+    second: tree_tiles_0
+  - first:
+      213: -5016614341267868424
+    second: tree_tiles_1
+  - first:
+      213: -7364635738882643247
+    second: tree_tiles_2
+  - first:
+      213: -586696441831071726
+    second: tree_tiles_sideD
+  - first:
+      213: -8869104738739083299
+    second: tree_tiles_trunk
+  - first:
+      213: 8585431303711000463
+    second: tree_tiles_sideU
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3e58dd5f7d2b8428f65ba9eb77b79f
+      internalID: -8666750210265534919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 100
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6272424e31afd474a9279f75f49437cf
+      internalID: -5016614341267868424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 100
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f0d992a606cbd428334f257129f108
+      internalID: -7364635738882643247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8cd0dba822e9c47bfc04d1f3b14899
+      internalID: -8978170575038894344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98813e21fd7dd447a4d8add33f4033f
+      internalID: -5568138283551865626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af49d2f4b7652aa4790cb8f37e03b064
+      internalID: -2904141381587798876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e312a22637b8749a537a3fb9120c08
+      internalID: 3574026462898958524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19ff9dcaf2f2b84a916b09542904d5d
+      internalID: 7052730316339811465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2a548d0cc46942850a5c261c524b6
+      internalID: 1995254879419932566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_sideD
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b68eb9f95012f54ebebe12272f037bc
+      internalID: -586696441831071726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_trunk
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcf59f0fdaff4b41824fe19d60b0a18
+      internalID: -8869104738739083299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_sideU
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7944c815fa519348bd1ccb4a02f62d2
+      internalID: 8585431303711000463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_rootl
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb8ed0d1d059ab40934fe7af719e2f0
+      internalID: 8916993137234398769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_root
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2851e440fec7c4cbc15497a0b9394e
+      internalID: 2768843146350413454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_tiles_rootr
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac09d5e87e9f37f4c8a5d83643f4e47a
+      internalID: 2199825273923298967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

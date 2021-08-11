@@ -1,0 +1,838 @@
+fileFormatVersion: 2
+guid: b4ba0cddb51093c498589703e12e850c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8008719218832318997
+    second: desert_MTN_0
+  - first:
+      213: -8809306396575148167
+    second: desert_MTN_1
+  - first:
+      213: 8627499291928998719
+    second: desert_MTN_2
+  - first:
+      213: -3196299505807253411
+    second: desert_MTN_3
+  - first:
+      213: -1755395816737651325
+    second: desert_MTN_4
+  - first:
+      213: -4896317019022858543
+    second: desert_MTN_5
+  - first:
+      213: -4873910069927733488
+    second: desert_MTN_6
+  - first:
+      213: 4665943364102781816
+    second: desert_MTN_7
+  - first:
+      213: 1825948123788534827
+    second: desert_MTN_8
+  - first:
+      213: -358904791713926668
+    second: desert_MTN_9
+  - first:
+      213: -4118446720715188316
+    second: desert_MTN_10
+  - first:
+      213: 5831334987383654694
+    second: desert_MTN_11
+  - first:
+      213: -9015012491584929999
+    second: desert_MTN_12
+  - first:
+      213: 2484112745826874405
+    second: desert_MTN_13
+  - first:
+      213: -4108088124911490826
+    second: desert_MTN_14
+  - first:
+      213: -9053999574220371657
+    second: desert_MTN_15
+  - first:
+      213: -1782158983362492780
+    second: desert_MTN_16
+  - first:
+      213: -2519077965141515242
+    second: desert_MTN_17
+  - first:
+      213: -638794111975083908
+    second: desert_MTN_18
+  - first:
+      213: 7545915808244360596
+    second: desert_MTN_19
+  - first:
+      213: -5338652224172784942
+    second: desert_MTN_20
+  - first:
+      213: 2332242212276716288
+    second: desert_MTN_21
+  - first:
+      213: -424940986076745889
+    second: desert_MTN_22
+  - first:
+      213: -241502508669079725
+    second: desert_MTN_23
+  - first:
+      213: -7854794666631733158
+    second: desert_MTN_24
+  - first:
+      213: -6245167668905311524
+    second: desert_MTN_25
+  - first:
+      213: -7266683312225672194
+    second: desert_MTN_26
+  - first:
+      213: 9156632133068305763
+    second: desert_MTN_27
+  - first:
+      213: -2539856528767273477
+    second: desert_MTN_28
+  - first:
+      213: -8558063202061914939
+    second: desert_MTN_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: desert_MTN_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 181
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512285092bfa42f60800000000000000
+      internalID: 8008719218832318997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 192
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977df8a818e0fb580800000000000000
+      internalID: -8809306396575148167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 156
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33bc5345e80bb770800000000000000
+      internalID: 8627499291928998719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 146
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d502a90c88674a3d0800000000000000
+      internalID: -3196299505807253411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385452f1ec493a7e0800000000000000
+      internalID: -1755395816737651325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6617dec99cc0cb0800000000000000
+      internalID: -4896317019022858543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01712ce4d946c5cb0800000000000000
+      internalID: -4873910069927733488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 30
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bff67b4c2c0c040800000000000000
+      internalID: 4665943364102781816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24e4b0f422175910800000000000000
+      internalID: 1825948123788534827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 153
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1b4b55ef9e40bf0800000000000000
+      internalID: -358904791713926668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 153
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a71669278658d6c0800000000000000
+      internalID: -4118446720715188316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 153
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294f4976401de050800000000000000
+      internalID: 5831334987383654694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 92
+        width: 176
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ffe5907ed34e280800000000000000
+      internalID: -9015012491584929999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 39
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524f7058167597220800000000000000
+      internalID: 2484112745826874405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 39
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f866a0bd932df6c0800000000000000
+      internalID: -4108088124911490826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 195
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7398e0e7b5bb95280800000000000000
+      internalID: -9053999574220371657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 170
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496486fc8df7447e0800000000000000
+      internalID: -1782158983362492780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 146
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614e936ffef6a0dd0800000000000000
+      internalID: -2519077965141515242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 195
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c703d1fb32c8227f0800000000000000
+      internalID: -638794111975083908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 170
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495e867927a78b860800000000000000
+      internalID: 7545915808244360596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 146
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d205d6661c49e5b0800000000000000
+      internalID: -5338652224172784942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003cce07fe9cd5020800000000000000
+      internalID: 2332242212276716288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 36
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f2462bc6e4a1af0800000000000000
+      internalID: -424940986076745889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_23
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fe9667fb206acf0800000000000000
+      internalID: -241502508669079725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 65
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5068cffdd92ef290800000000000000
+      internalID: -7854794666631733158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2052ce715b459a0800000000000000
+      internalID: -6245167668905311524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3a78f270e872b90800000000000000
+      internalID: -7266683312225672194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 36
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b67e3964e21f70800000000000000
+      internalID: 9156632133068305763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5be5e91fd90ccd0800000000000000
+      internalID: -2539856528767273477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert_MTN_29
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cce1cb3cd6ab3980800000000000000
+      internalID: -8558063202061914939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

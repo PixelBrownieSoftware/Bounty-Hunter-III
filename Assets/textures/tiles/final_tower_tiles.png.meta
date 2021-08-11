@@ -1,0 +1,958 @@
+fileFormatVersion: 2
+guid: eaa25f80bb86b4845a7358780473b8d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3928468880572561812
+    second: final_tower_tiles_0
+  - first:
+      213: 6374629194749157707
+    second: final_tower_tiles_1
+  - first:
+      213: -8078197937206430
+    second: final_tower_tiles_2
+  - first:
+      213: -4629484938766057478
+    second: final_tower_tiles_3
+  - first:
+      213: 1540938320333564645
+    second: final_tower_tiles_4
+  - first:
+      213: -6868864957723506725
+    second: final_tower_tiles_5
+  - first:
+      213: 3966613160013380033
+    second: final_tower_tiles_6
+  - first:
+      213: -2390096483130074030
+    second: final_tower_tiles_7
+  - first:
+      213: -436837523469878237
+    second: final_tower_tiles_8
+  - first:
+      213: -8986092747938872645
+    second: final_tower_tiles_9
+  - first:
+      213: -6585899522796319273
+    second: final_tower_tiles_10
+  - first:
+      213: -2382962666518747937
+    second: final_tower_tiles_11
+  - first:
+      213: -4019964669858548965
+    second: final_tower_tiles_12
+  - first:
+      213: -6291491578306690458
+    second: final_tower_tiles_13
+  - first:
+      213: 337248910528840650
+    second: final_tower_tiles_14
+  - first:
+      213: -7103124067857877852
+    second: final_tower_tiles_15
+  - first:
+      213: -6131034274301980922
+    second: final_tower_tiles_16
+  - first:
+      213: 727684203924943179
+    second: final_tower_tiles_17
+  - first:
+      213: 443792885989362559
+    second: final_tower_tiles_18
+  - first:
+      213: 366485329021666735
+    second: final_tower_tiles_19
+  - first:
+      213: 3919314317591801733
+    second: final_tower_tiles_20
+  - first:
+      213: 8821699550184032773
+    second: final_tower_tiles_21
+  - first:
+      213: -3248647364457411616
+    second: final_tower_tiles_22
+  - first:
+      213: 5514972828973166461
+    second: final_tower_tiles_23
+  - first:
+      213: -2090968895115544541
+    second: final_tower_tiles_24
+  - first:
+      213: 431681432379001288
+    second: final_tower_tiles_25
+  - first:
+      213: 8258889722546771134
+    second: final_tower_tiles_26
+  - first:
+      213: -7045084984373987183
+    second: final_tower_tiles_27
+  - first:
+      213: -7473155514466443896
+    second: final_tower_tiles_28
+  - first:
+      213: 1381844810492887707
+    second: final_tower_tiles_29
+  - first:
+      213: -7050329596974297293
+    second: final_tower_tiles_30
+  - first:
+      213: -8512902704020842359
+    second: final_tower_tiles_31
+  - first:
+      213: -724425254197366187
+    second: final_tower_tiles_32
+  - first:
+      213: 7589032906699987666
+    second: final_tower_tiles_33
+  - first:
+      213: 6843715503510899354
+    second: final_tower_tiles_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: final_tower_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66cb46fd564b79c0800000000000000
+      internalID: -3928468880572561812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41abd77a7b377850800000000000000
+      internalID: 6374629194749157707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b0789fbec43eff0800000000000000
+      internalID: -8078197937206430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 198
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff3dbe9f3c0cfb0800000000000000
+      internalID: -4629484938766057478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 198
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae444fc33826510800000000000000
+      internalID: 1540938320333564645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 173
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd703c8b6b3eca0a0800000000000000
+      internalID: -6868864957723506725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 198
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9bcfb27ad3c0730800000000000000
+      internalID: 3966613160013380033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 91
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c1f1079eba4ded0800000000000000
+      internalID: -2390096483130074030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c340d369a00f9f0800000000000000
+      internalID: -436837523469878237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 27
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2c360914cfa4380800000000000000
+      internalID: -8986092747938872645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 18
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd8f41174f2a94a0800000000000000
+      internalID: -6585899522796319273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4e12d84140eeed0800000000000000
+      internalID: -2382962666518747937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 24
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13f5737e673638c0800000000000000
+      internalID: -4019964669858548965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 68
+        width: 21
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6620ba74eb120b8a0800000000000000
+      internalID: -6291491578306690458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 42
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac385f8e8162ea400800000000000000
+      internalID: 337248910528840650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 126
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4bdc35b42ac6d90800000000000000
+      internalID: -7103124067857877852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 95
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f4c76afc03aeaa0800000000000000
+      internalID: -6131034274301980922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 173
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41fb939de0491a00800000000000000
+      internalID: 727684203924943179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bcd3b474ba82600800000000000000
+      internalID: 443792885989362559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa58abb0774061500800000000000000
+      internalID: 366485329021666735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 120
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f692f3b93346630800000000000000
+      internalID: 3919314317591801733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 145
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a41f36009fc6a70800000000000000
+      internalID: 8821699550184032773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc1012f6c7ae2d0800000000000000
+      internalID: -3248647364457411616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 173
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f60e0819e198c40800000000000000
+      internalID: 5514972828973166461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 148
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3283f3a4ed26bf2e0800000000000000
+      internalID: -2090968895115544541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c90511c9f3adf500800000000000000
+      internalID: 431681432379001288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb45687f1787d9270800000000000000
+      internalID: 8258889722546771134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 50
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19833fd7884da3e90800000000000000
+      internalID: -7045084984373987183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 25
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dd9f077a40a4890800000000000000
+      internalID: -7473155514466443896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 25
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b924528a88c4d2310800000000000000
+      internalID: 1381844810492887707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f8ce6f592382e90800000000000000
+      internalID: -7050329596974297293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988106f08181cd980800000000000000
+      internalID: -8512902704020842359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 98
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5527e39c11352f5f0800000000000000
+      internalID: -724425254197366187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 123
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da5a906839a15960800000000000000
+      internalID: 7589032906699987666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: final_tower_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 198
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac99aadf2c9fe50800000000000000
+      internalID: 6843715503510899354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

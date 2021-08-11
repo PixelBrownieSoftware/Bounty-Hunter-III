@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Intro.unity
+    guid: 0458d70251a6efb46897381a674d8907
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 31f21efa2f1596640a454758a4ba958a
+  - enabled: 1
+    path: Assets/Title.unity
+    guid: 543d6d8af3a0b1d44b227f413bf568c2
+  - enabled: 1
+    path: Assets/Main Game.unity
+    guid: 7fd19954f0798e84c8a12ab186cfae84
+  - enabled: 1
+    path: Assets/Scenes/port_city_station.unity
+    guid: 660e6b97a1319974793439f3127b6c4b
+  - enabled: 1
+    path: Assets/Scenes/inside_airship_a.unity
+    guid: d33c7655eecb4854980fff13f79d7c9b
+  - enabled: 1
+    path: Assets/Scenes/inside_airship_b.unity
+    guid: ffc9d26115f439e4b93a0ff848cf1bcd
+  - enabled: 1
+    path: Assets/Scenes/guard_city_station.unity
+    guid: 4a3d343ede54360479dd85b3cd99b12b
+  - enabled: 1
+    path: Assets/Scenes/canyon_area_a.unity
+    guid: bce802f3fe9fdc04383a59e74f83119a
+  - enabled: 1
+    path: Assets/Scenes/canyon_area_b.unity
+    guid: 835ee1203713a9e4eb17db303d6d8136
+  - enabled: 1
+    path: Assets/Scenes/canyon_area_c.unity
+    guid: c27a270b83f9c1448825134de8c5fabd
+  - enabled: 1
+    path: Assets/Scenes/clif_bridge_a.unity
+    guid: 026f316986d4e3d4b9fa11fd51484acd
+  - enabled: 1
+    path: Assets/Scenes/clif_bridge_b.unity
+    guid: 032bacad4bdd72442b691f5f47b6439b
+  - enabled: 1
+    path: Assets/Scenes/clif_bridge_c.unity
+    guid: a20db423710a0b445a611f61ba7e3569
+  - enabled: 1
+    path: Assets/Scenes/clif_bridge_d.unity
+    guid: 1826ff18931169f4284c64ef1479a6f9
+  - enabled: 1
+    path: Assets/Scenes/demon_world.unity
+    guid: 46d012d17d3e4614680b49adde5d8e4e
+  - enabled: 1
+    path: Assets/Scenes/demon_world_cave_a.unity
+    guid: 9ee062a5196e52b4897260888d38eb4e
+  - enabled: 1
+    path: Assets/Scenes/demon_world_cave_b.unity
+    guid: f12ad7a7d0fc54f4abba9b21d970a7e2
+  - enabled: 1
+    path: Assets/Scenes/demon_world_teleporter.unity
+    guid: 6d3b1a7bb02276a49afb64e1ddc79a57
+  - enabled: 1
+    path: Assets/Scenes/demon_world_teleporter_core.unity
+    guid: 552cff0bb4d7e0345801aa1b1292a6f4
+  - enabled: 1
+    path: Assets/Scenes/final_tower_a.unity
+    guid: b468639d08ab9ab45964ea50e4f58cf1
+  - enabled: 1
+    path: Assets/Scenes/final_tower_b.unity
+    guid: ed6489f5609f81c47a7fbdc65a17cfee
+  - enabled: 1
+    path: Assets/Scenes/final_tower_c.unity
+    guid: aa584bdfa204d364baf8e021202c9f28
+  - enabled: 1
+    path: Assets/Scenes/final_tower_d_pris.unity
+    guid: 9662356662c1de44db96e35d8e2dbd37
+  - enabled: 1
+    path: Assets/Scenes/final_tower_e.unity
+    guid: 14f96172cb0ab0842821d7f63cbf7d0c
+  - enabled: 1
+    path: Assets/Scenes/final_tower_f.unity
+    guid: e41e3fc559acdfb4387ba6d839ff09e8
+  - enabled: 1
+    path: Assets/Scenes/final_tower_top.unity
+    guid: 187e11c3bd2ba5c4ca38ea61fbfc033d
+  - enabled: 1
+    path: Assets/Scenes/forest2_a.unity
+    guid: 94cbd6557e5bf5b428d0d1b5a4826ab7
+  - enabled: 1
+    path: Assets/Scenes/forest2_e_toCliff.unity
+    guid: 73853bbb7e97c2043a3d19f389b9ae5d
+  - enabled: 1
+    path: Assets/Scenes/forest_a.unity
+    guid: a1148e89b44f21149a3fb93bdf3536d9
+  - enabled: 1
+    path: Assets/Scenes/forest_b.unity
+    guid: d4ba48621f906c842824002a916b15ea
+  - enabled: 1
+    path: Assets/Scenes/forest_c.unity
+    guid: 46c0ff682e6dfa24a8e192be72705ac0
+  - enabled: 1
+    path: Assets/Scenes/forest_ending.unity
+    guid: 1053b39a6cd00b246ba498281cf11a63
+  - enabled: 1
+    path: Assets/Scenes/forest_mountain.unity
+    guid: cd6106641d270e04f81a89766fb093ab
+  - enabled: 1
+    path: Assets/Scenes/generator_a.unity
+    guid: c2f66ac5079f06340b94d74394c07d0a
+  - enabled: 1
+    path: Assets/Scenes/generator_b.unity
+    guid: 6e4bdb428baabd54983e0371189210e1
+  - enabled: 1
+    path: Assets/Scenes/generator_boss.unity
+    guid: 3463e8af1fde6f6499583a958b629c4b
+  - enabled: 1
+    path: Assets/Scenes/guard_city_a.unity
+    guid: ccd5808becf995e40a1c7d6c14792033
+  - enabled: 1
+    path: Assets/Scenes/guard_city_b.unity
+    guid: bd499cb0155020f48adf10d67af7775c
+  - enabled: 1
+    path: Assets/Scenes/guard_city_c.unity
+    guid: 9158c36d32f468d438230f601a31280c
+  - enabled: 1
+    path: Assets/Scenes/guard_city_d.unity
+    guid: 1a4be75075eb4e04fb71a87a2d2b9d27
+  - enabled: 1
+    path: Assets/Scenes/guard_city_unused.unity
+    guid: e26351df4ba022847950b5de45f3ce6a
+  - enabled: 1
+    path: Assets/Scenes/guard_city_sewers.unity
+    guid: 7cb02ad38938fe14a93bf3deb7db4590
+  - enabled: 1
+    path: Assets/Scenes/mountain_area_a.unity
+    guid: 4cb7f80f3a3e73f468e48404410379c0
+  - enabled: 1
+    path: Assets/Scenes/mountain_area_b.unity
+    guid: d9689d99412476a4f95c39ba64cfa8d7
+  - enabled: 1
+    path: Assets/Scenes/mountain_area_c.unity
+    guid: d912c8ce6dd0f9144a1ac57eed465b35
+  - enabled: 1
+    path: Assets/Scenes/mountain_cave_a.unity
+    guid: 9bd90dd6e1d9d4e42a0badc90b8afa50
+  - enabled: 1
+    path: Assets/Scenes/mountain_cave_b.unity
+    guid: bc46f68efeb3b4b4f83bbbc1453f7162
+  - enabled: 1
+    path: Assets/Scenes/mountain_cave_c.unity
+    guid: ea85a25051d0a5243899e9ba462b1083
+  - enabled: 1
+    path: Assets/Scenes/mountain_fortress_a.unity
+    guid: ee29714280c60754f9624b2f300d5c35
+  - enabled: 1
+    path: Assets/Scenes/mountain_fortress_b.unity
+    guid: 54f5b0e19d79f974f880cd5b94d4d37c
+  - enabled: 1
+    path: Assets/Scenes/mountain_fortress_c.unity
+    guid: 00fda003a9cfdd9459cd5953497aa578
+  - enabled: 1
+    path: Assets/Scenes/ocean_boss.unity
+    guid: 13f9cc8231a60eb4b99bdd2af823e5b1
+  - enabled: 1
+    path: Assets/Scenes/outside_village_a.unity
+    guid: 6af17ea9ec6cbbb4a8068ef14e978bf2
+  - enabled: 1
+    path: Assets/Scenes/outside_village_b.unity
+    guid: 572a5c96af236c545abdef5ec7cce3b4
+  - enabled: 1
+    path: Assets/Scenes/outside_village_m_c_a.unity
+    guid: bc667588ffeb19f4c837b3fde7ea6b4c
+  - enabled: 1
+    path: Assets/Scenes/outside_village_m_c_b.unity
+    guid: e2c2fca7f3cc0cd49a14a1dec4d34fa7
+  - enabled: 1
+    path: Assets/Scenes/port_city_a.unity
+    guid: fec5792f97759d646a718cee266fc8ed
+  - enabled: 1
+    path: Assets/Scenes/port_city_b.unity
+    guid: 4f0f866086d80954296327ea04951b69
+  - enabled: 1
+    path: Assets/Scenes/port_city_c.unity
+    guid: a4ece75e9baabe144baf4174b928e06f
+  - enabled: 1
+    path: Assets/Scenes/river_a.unity
+    guid: 0c3b609b05253fa498fa6273a458df63
+  - enabled: 1
+    path: Assets/Scenes/river_b.unity
+    guid: 22081ba80c5738b4c84851b46268d435
+  - enabled: 1
+    path: Assets/Scenes/river_c.unity
+    guid: f18f1c64a9b6c924ea56e083a52e44fe
+  - enabled: 1
+    path: Assets/Scenes/swamp_a.unity
+    guid: 3a03089f8ff03cc4c8bf31f487005fc1
+  - enabled: 1
+    path: Assets/Scenes/swamp_b.unity
+    guid: 4bbfd36166ff64c47929fb8b474e8736
+  - enabled: 1
+    path: Assets/Scenes/swamp_d.unity
+    guid: dbdce49293f10044ea06d73c17635fba
+  - enabled: 1
+    path: Assets/Scenes/taiga_a.unity
+    guid: d78ddd3e0f29209468a8cd51c537e421
+  - enabled: 1
+    path: Assets/Scenes/taiga_b.unity
+    guid: c72167855239e5b499fbe74ba403f4e5
+  - enabled: 1
+    path: Assets/Scenes/taiga_d.unity
+    guid: 2b0a3533f2884c14485ea1a05e82a443
+  - enabled: 1
+    path: Assets/Scenes/taiga_MTN_area_river_a.unity
+    guid: 6bcccd085434ffb4a880ba25242fc250
+  - enabled: 1
+    path: Assets/Scenes/taiga_MTN_area_river_b.unity
+    guid: f379b4dc09a79024a96012ee71c53a4a
+  - enabled: 1
+    path: Assets/Scenes/taiga_MTN_area_river_d.unity
+    guid: 2a31d11bc6c94de4db331c3ebacbd45d
+  - enabled: 1
+    path: Assets/Scenes/taiga_MTN_base_a.unity
+    guid: a424170d32fe23540827ed23cca5fb53
+  - enabled: 1
+    path: Assets/Scenes/taiga_MTN_base_b.unity
+    guid: 684e2ae84ac4c2d4c9579e282fa0a8aa
+  - enabled: 1
+    path: Assets/Scenes/taiga_MTN_base_outside.unity
+    guid: f2eadc5bd760c684cb1ceac71f2f0834
+  - enabled: 1
+    path: Assets/Scenes/taiga_MTN_base_toOut.unity
+    guid: b2bd46561b99f324082cec139afb8efd
+  - enabled: 1
+    path: Assets/Scenes/underground_cave_a.unity
+    guid: 9f135e167ac749142aa5829b44c5a902
+  - enabled: 1
+    path: Assets/Scenes/underground_cave_b.unity
+    guid: 931e22f98df2a824e84f04f07c2513a5
+  - enabled: 1
+    path: Assets/Scenes/underground_cave_boss.unity
+    guid: b216665c8987f4e499aabc5eabb6c8ab
+  - enabled: 1
+    path: Assets/Scenes/mountain_fortress_boss.unity
+    guid: c4219f483a2bddb4ea00dd8aaca31687
+  - enabled: 1
+    path: Assets/Scenes/underground_cave_c.unity
+    guid: fbd17d114998352439707f428bf257cc
+  - enabled: 1
+    path: Assets/Scenes/village_area.unity
+    guid: 0d78a901fe564f04f88b4fc0f7c35e7c
+  - enabled: 1
+    path: Assets/Scenes/village_hospital.unity
+    guid: 3f72ed0a97a280843bac6d3daeb0cca5
+  - enabled: 1
+    path: Assets/Scenes/volcano_beach.unity
+    guid: a69dad19cf860044faafbf425c45589f
+  - enabled: 1
+    path: Assets/Scenes/volcano_jungle.unity
+    guid: a6da5f1bcce80064b867ac87b9d8acf2
+  - enabled: 1
+    path: Assets/Scenes/volcano_jungle_b.unity
+    guid: 5d8e312e3c00a244eb7ad5643c1f0830
+  - enabled: 1
+    path: Assets/Scenes/ending.unity
+    guid: 8eccfedbc16dadb4ea69efed01e5d545
+  m_configObjects: {}

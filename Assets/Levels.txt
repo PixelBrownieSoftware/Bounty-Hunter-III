@@ -1,0 +1,8 @@
+
+{"event_flag":0,"characterFileNames":[],"triggerdata":[{"pos_x":6,"pos_y":55,"listofevents":[]}],"objectdata":[],"tilesdata":[],"id":0}
+{"event_flag":0,"characterFileNames":[],"triggerdata":[{"pos_x":6,"pos_y":55,"listofevents":[]}],"objectdata":[],"tilesdata":[],"id":0}
+{"event_flag":0,"characterFileNames":[],"triggerdata":[{"pos_x":6,"pos_y":55,"listofevents":[]}],"objectdata":[],"tilesdata":[],"id":0}
+{"event_flag":0,"characterFileNames":[],"triggerdata":[{"pos_x":6,"pos_y":55,"listofevents":[]}],"objectdata":[],"tilesdata":[],"id":0}
+{"event_flag":0,"characterFileNames":[],"triggerdata":[{"pos_x":6,"pos_y":55,"listofevents":[]}],"objectdata":[],"tilesdata":[],"id":0}
+{"event_flag":0,"characterFileNames":[],"triggerdata":[{"pos_x":6,"pos_y":55,"listofevents":[]}],"objectdata":[],"tilesdata":[],"id":0}
+
